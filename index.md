@@ -3,6 +3,8 @@
 Hot dog postcards
 Buy postcards, write on them, and send them to people. It's fun!
 
+Test to [hahahotdog](/postcard/hahahotdogs.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
