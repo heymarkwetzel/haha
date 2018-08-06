@@ -1,6 +1,6 @@
-## Placeholder for Haha Hot Dogs
+## Placeholder
 
-Postcards and good feelings, ya'll.
+Hot dog postcards
 Buy postcards, write on them, and send them to people. It's fun!
 
 ### Markdown
