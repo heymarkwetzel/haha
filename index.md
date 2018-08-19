@@ -1,9 +1,9 @@
-## Placeholder
+## Haha Hot Dogs
 
-Hot dog postcards
-Buy postcards, write on them, and send them to people. It's fun!
+We're under construction right now.
+Visit us at our [instagram](www.instagram.com/hahahotdogs) or shop our postcards in-store at [Shop1021](https://www.shop1021.com/) or [Wolfbait & B-Girls](https://wolfbaitchicago.com/) - both located in Chicago's Logan Square neighborhood.
 
-Test to [hahahotdog](/postcard/hahahotdogs.md)
+/*Test to [hahahotdog](/postcard/hahahotdogs.md)*/
 
 ### Markdown
 
