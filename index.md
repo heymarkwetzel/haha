@@ -1,7 +1,7 @@
 ## Haha Hot Dogs
 
 We're under construction right now.
-Visit us at our [instagram](www.instagram.com/hahahotdogs) or shop our postcards in-store at [Shop1021](https://www.shop1021.com/) or [Wolfbait & B-Girls](https://wolfbaitchicago.com/) - both located in Chicago's Logan Square neighborhood.
+Visit us at our [instagram](http://www.instagram.com/hahahotdogs) or shop our postcards in-store at [Shop1021](https://www.shop1021.com/) or [Wolfbait & B-Girls](https://wolfbaitchicago.com/) - both located in Chicago's Logan Square neighborhood.
 
 /*Test to [hahahotdog](/postcard/hahahotdogs.md)*/
 
