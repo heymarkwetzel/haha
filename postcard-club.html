@@ -55,9 +55,9 @@
 									<h2>Join and receive a postcard every month for the year!</h2>
 								<hr />
 
-									<h4>What is this?</h4>
-									<p>You'll get that good mail in your mailbox in the form of Haha Hot Dog postcards that you can collect for yourself, put on your fridge, or send to people who would love to hear from you!</p>
-									<blockquote>"Every month, once a month, <a href="https://www.youtube.com/watch?v=_JLnC0e5dUU">give yourself a present</a>" -Agent "Cooper"</blockquote>
+								<h4>What is this?</h4>
+								<p>You’ll receive one Haha Hot Dog postcard every month of 2020. <br />Collect them, be inspired to send mail to friends and family, put them up at work - whatever you like!</p>
+								<blockquote>"Every month, once a month, <a href="https://www.youtube.com/watch?v=_JLnC0e5dUU">give yourself a present</a>" -Agent "Cooper"</blockquote>
 
 									<h4>How does it work?</h4>
 									<ul>
@@ -75,35 +75,18 @@
 
 								<section>
 									<h2>Join the Haha Postcard Club Today!</h2>
-									<p>Pay $25 once and get postcards for a year! Click PayPal to pay and join.</p>
-									<!-- PAYPAL -->
-									<div id="paypal-button-container"></div>
-									<script src="https://www.paypal.com/sdk/js?client-id=AYG_rTGSkHi1seCjmOZGwPP5Ti7OOIKFNCSMBV9mrxk-8G5wHaD1GXUbgstBXHPsqzorm5LUOBRGVgPa&currency=USD" data-sdk-integration-source="button-factory"></script>
-									<script>
-									    paypal.Buttons({
-									        style: {
-									            shape: 'rect',
-									            color: 'gold',
-									            layout: 'horizontal',
-									            label: 'paypal',
+									<p>Pay $25 once and get postcards for a year! Click to join and pay through PayPal.
+										<br />
+										<em>You will receive an email from me once your purchase is complete with your coupon code.</em>
+									</p>
 
-									        },
-									        createOrder: function(data, actions) {
-									            return actions.order.create({
-									                purchase_units: [{
-									                    amount: {
-									                        value: '25.00'
-									                    }
-									                }]
-									            });
-									        },
-									        onApprove: function(data, actions) {
-									            return actions.order.capture().then(function(details) {
-									                alert('Transaction completed by ' + details.payer.name.given_name + '!');
-									            });
-									        }
-									    }).render('#paypal-button-container');
-									</script>
+									<!-- PAYPAL -->
+									<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+										<input type="hidden" name="cmd" value="_s-xclick">
+										<input type="hidden" name="hosted_button_id" value="HMM96NQ7Y6KUY">
+										<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+										<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+									</form>
 									<!-- END PAYPAL -->
 
 									<hr />
@@ -115,11 +98,11 @@
 
 									<div class="box alt">
 										<div class="row gtr-50 gtr-uniform">
-											<div class="col-5">
+											<div class="col-6">
 												<p>The postcard that started it all. These four are busting out of their buns over how much fun they're having.</p>
 												<p>This will help you to remember that ending a good laugh by saying "hot dogs" makes everything more fun. Like this: "Haa hahaha ha ha haaaha hahaha haha hot dogs!" </p>
 											</div>
-											<div class="col-5">
+											<div class="col-6">
 												<span class="image fit"><img src="images/postcards/haha.jpg" alt="haha hot dogs postcard" /></span>
 											</div>
 										</div>
@@ -142,7 +125,7 @@
 													<td>January</td>
 													<td><a href="https://www.etsy.com/listing/731684287/postcard-haha-hot-dogs">Haha Hot Dogs<a/></td>
 												</tr>
-												<tr>
+												<!--<tr>
 													<td>February</td>
 													<td><a href="https://www.etsy.com/listing/738027896/postcard-shake-your-buns">Shake Your Buns</a></td>
 												</tr>
@@ -185,9 +168,26 @@
 												<tr>
 													<td>December</td>
 													<td>Good Luck This Christmas</td>
-												</tr>
+												</tr>-->
 											</tbody>
 										</table>
+
+										<hr />
+
+										<h2>Join the Haha Postcard Club Today!</h2>
+										<p>Pay $25 once and get postcards for a year! Click to join and pay through PayPal.
+											<br />
+											<em>You will receive an email from me once your purchase is complete with your coupon code.</em>
+										</p>
+										<!-- PAYPAL -->
+										<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+											<input type="hidden" name="cmd" value="_s-xclick">
+											<input type="hidden" name="hosted_button_id" value="HMM96NQ7Y6KUY">
+											<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+											<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+										</form>
+										<!-- END PAYPAL -->
+
 									</div>
 
 									<section>
