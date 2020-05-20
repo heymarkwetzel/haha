@@ -1,8 +1,11 @@
 title: Site Navigation
 primary-nav:
 
-- title: Projects
-  url: /#projects
+- title: Products
+  url: /#products
+
+- title: Postcard Club
+  url: /postcard-club/
 
 - title: About
   url: /about/
