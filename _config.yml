@@ -1,0 +1,19 @@
+title: Haha Hot Dogs
+email: hahahotdogs@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Haha Hot Dogs makes postcards, stickers, and other fun things with the goal of connecting people and sharing some laughs.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "hahahotdogs.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  heymarkwetzel
+timezone: America/New_York
+permalink: /:title/
+markdown: kramdown
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-feed
+
+exclude: [README.md, Gemfile, Gemfile.lock]

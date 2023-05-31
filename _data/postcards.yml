@@ -1,0 +1,16 @@
+list:
+
+  - title: Haha Hot Dogs
+    #description: Chicago
+    thumbnail: /assets/images/project-thumbnails/chicago.jpg
+    url: /assets/images/project-thumbnails/chicago.jpg
+
+  - title: Chicago Dogs
+    #description: Antarctica
+    thumbnail: /assets/images/project-thumbnails/antarctica.jpg
+    url: /assets/images/project-thumbnails/antarctica.jpg
+
+  - title: Shake Your Buns
+    #description: Utah
+    thumbnail: /assets/images/project-thumbnails/utah.jpg
+    url: /assets/images/project-thumbnails/utah.jpg
