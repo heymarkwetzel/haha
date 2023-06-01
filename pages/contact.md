@@ -12,6 +12,7 @@ permalink: /contact/
       <p>Instagram</p>
     </a>
   </div>
+---
 
   <!--
   <div class="contact-social-link">
@@ -22,9 +23,6 @@ permalink: /contact/
   </div>
 </div>
 -->
-
----
-
 
 <!--
 ## Email
