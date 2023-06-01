@@ -19,7 +19,7 @@ nav: light
   </div>
 </section>
 
-<section class="pw-container">
+<section class="pw-container-full">
   <section class="home-buy-online">
     <div class="pw-container-1-2">
       <h3>Buy Wholesale</h3>
