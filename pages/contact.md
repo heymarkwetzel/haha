@@ -12,6 +12,13 @@ permalink: /contact/
       <p>Instagram</p>
     </a>
   </div>
+
+  <div class="contact-social-link">
+    <a href="mailto:hahahotdogs@gmail.com?subject="Let's talk hot dogs!"">
+      <img src="{{ "/assets/images/contact-mailto.svg" | relative_url }}" />
+      <p>Email</p>
+    </a>
+  </div>
 </div>
 
 ---
