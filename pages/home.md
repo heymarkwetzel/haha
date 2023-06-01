@@ -19,6 +19,7 @@ nav: light
   </div>
 </section>
 
+<!--Dude. Just re-do the Projects section. Who cares if it's not centered? -->
 <section class="home-buy-online">
   <section class="home-buy-online">
     <div class="pw-container-1-2">
