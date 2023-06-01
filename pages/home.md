@@ -14,7 +14,7 @@ nav: light
       <span class="white-text">Postcards, stickers, good times, and more!</span>
       <p></p>
       <span class="white-text">Website under construction</span>
-      <a class="btn-lrg btn-lrg-dark" href="{{ "www.instagram.com/hahahotdogs" | url }}">Check out our Instagram</a>
+      <a class="btn-lrg btn-lrg-dark" href="{{ "http://www.instagram.com/hahahotdogs"}}">Check out our Instagram</a>
     </div>
   </div>
 </section>
