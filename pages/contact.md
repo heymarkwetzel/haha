@@ -1,10 +1,24 @@
 ---
 layout: contact
-title: Contact us
+title: Contact Haha Hot Dogs
 permalink: /contact/
 ---
-## Email
 
+---
+<div class="contact-social">
+  <div class="contact-social-link">
+    <a href="https://www.instagram.com/hahahotdogs/">
+      <img src="{{ "/assets/images/contact-instagram.svg" | relative_url }}" />
+      <p>Instagram</p>
+    </a>
+  </div>
+</div>
+
+---
+
+
+<!--
+## Email
 <form name="contact" class="contact-form" action="https://getform.io/f/4148fa5c-95c9-48c2-adcf-1fa77f46d4e5" method="POST">
   <div class="contact-form-personal-info">
     <div>
@@ -26,3 +40,4 @@ permalink: /contact/
 </form>
 
 ---
+-->
