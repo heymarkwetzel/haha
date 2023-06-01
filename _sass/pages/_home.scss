@@ -17,6 +17,19 @@
     }
 }
 
+//trying to build a 50-50 container for Wholesale and Etsy promos.
+.home-buy-online {
+  padding: 48px 0 48px 0;
+  background-color: $color-gray-light;
+  h3 {
+    text-transform: uppercase;
+    font-weight: 600;
+    color: $color-gray-medium;
+    letter-spacing: .65px;
+    margin-bottom: 16px;
+  }
+}
+
 .home-projects {
     padding: 48px 0 48px 0;
     background-color: $color-gray-light;

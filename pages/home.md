@@ -12,7 +12,17 @@ nav: light
       <p></p>
       <p></p>
       <span class="white-text">Postcards, stickers, good times, and more!</span>
-      <!-- <a class="btn-lrg btn-lrg-dark" href="{{ "/contact/" | relative_url }}">Contact us</a>-->
+      <p></p>
+      <span class="white-text">Website under construction</span>
+      <a class="btn-lrg btn-lrg-dark" href="{{ "www.instagram.com/hahahotdogs" | url }}">Check out our Instagram</a>
+    </div>
+  </div>
+</section>
+
+<section class="home-buy-online">
+  <div class="pw-container-1-2">
+    <h3>Buy Wholesale</h3>
+    <div class="need-to-insert-image-control">
     </div>
   </div>
 </section>
