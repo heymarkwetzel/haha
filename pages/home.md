@@ -19,22 +19,23 @@ nav: light
   </div>
 </section>
 
-<section class="home-buy-online">
-  <div class="pw-container-1-2">
-    <h3>Buy Wholesale</h3>
-    <div class="need-to-insert-image-control">
+<section class="pw-container">
+  <section class="home-buy-online">
+    <div class="pw-container-1-2">
+      <h3>Buy Wholesale</h3>
+      <div class="need-to-insert-image-control">
+      </div>
     </div>
-  </div>
-</section>
+  </section>
 
-<section class="home-buy-online">
-  <div class="pw-container-1-2">
-    <h3>Buy on Etsy</h3>
-    <div class="need-to-insert-image-control">
+  <section class="home-buy-online">
+    <div class="pw-container-1-2">
+      <h3>Buy on Etsy</h3>
+      <div class="need-to-insert-image-control">
+      </div>
     </div>
-  </div>
+  </section>
 </section>
-
 
 <section class="home-projects">
   <div class="pw-container">
