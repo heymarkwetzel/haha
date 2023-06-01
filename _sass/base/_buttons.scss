@@ -24,7 +24,7 @@
 
 a.btn-lrg-dark {
     color: $color-white;
-    border: solid $color-postikard 2px;
+    border: solid $color-haha 2px;
     &:hover {
       background: rgba(61,174,201,0.30);
       text-decoration: none;
@@ -33,13 +33,13 @@ a.btn-lrg-dark {
       color:$color-white;
     }
     &:active {
-      color: $color-postikard;
+      color: $color-haha;
     }
 }
 
 a.btn-lrg-light, button.btn-lrg-light {
-  color: $color-postikard;
-  border: solid $color-postikard 2px;
+  color: $color-haha;
+  border: solid $color-haha 2px;
   background: rgba(0,0,0,0);
 
   &:hover {
@@ -48,17 +48,17 @@ a.btn-lrg-light, button.btn-lrg-light {
     text-decoration: none;
   }
   &:visited {
-    color:$color-postikard;
+    color:$color-haha;
   }
   &:active {
-    color: $color-postikard;
+    color: $color-haha;
   }
 }
 
 a.btn-lrg-light-fill, button.btn-lrg-light-fill {
   color: $color-white;
-  background: $color-postikard;
-  border: solid $color-postikard 2px;
+  background: $color-haha;
+  border: solid $color-haha 2px;
   &:hover {
     background: rgba(227,153,127,0.30);
     text-decoration: none;
@@ -67,6 +67,6 @@ a.btn-lrg-light-fill, button.btn-lrg-light-fill {
     color:$color-white;
   }
   &:active {
-    color: $color-postikard;
+    color: $color-haha;
   }
 }
