@@ -7,15 +7,15 @@ permalink: /stockists/
 ## Stockists
 Find your favorite Haha Hot Dogs products out in the world at one of these awesome small businesses.
 
-If you are interested in carrying my products at your shop, you can check out my full catalog on [Faire](https://www.faire.com/hahahotdogs)
+If you are interested in carrying my products at your shop, you can check out my full catalog on [Faire](https://www.faire.com/direct/hahahotdogs)
 
 ### California
 San Juan Batista • [Livin' The Green Dream](https://livingreendream.com/)
 
 ### Illinois
-Chicago • [The Chicago History Museum](https://home.chicagohistory.org/)</br>
-Chicago • [Foursided](https://www.foursided.com)</br>
-Chicago • [Shop Komoda](https://www.shopkomoda.com/)</br>
+Chicago • [The Chicago History Museum](https://home.chicagohistory.org/)  <br />
+Chicago • [Foursided](https://www.foursided.com)  <br />
+Chicago • [Shop Komoda](https://www.shopkomoda.com/)  <br />
 
 ### New York
 Newburgh • [Pete's Hot Dogs](https://www.peteshotdogs.net)
