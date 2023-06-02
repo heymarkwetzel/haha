@@ -21,21 +21,20 @@ nav: light
 
 <!--Dude. Just re-do the Projects section. Who cares if it's not centered? -->
 <section class="home-buy-online">
-  <section class="home-buy-online">
-    <div class="pw-container-1-2">
-      <h3>Buy Wholesale</h3>
-      <div class="need-to-insert-image-control">
+  <div class="pw-container">
+    <h3>Buy Online</h3>
+      <div class="home-buy-online-list">
+        {% for item in site.data.buy-online.list %}
+          <div class="home-buy-online">
+            <a href="{{ item.url }}" alt="{{ item.title }}">
+              <img class="home-buyonline-thumbnail" src="{{ item.thumbnail }}" />
+              <h4 class="home-buy-online-title">{{ item.title }}</h4>
+              <p clas="home-buy-online-description">{{ item.description }}</p>
+            </a>
+          </div>
+        {% endfor %}
       </div>
-    </div>
-  </section>
-
-  <section class="home-buy-online">
-    <div class="pw-container-1-2">
-      <h3>Buy on Etsy</h3>
-      <div class="need-to-insert-image-control">
-      </div>
-    </div>
-  </section>
+  </div>
 </section>
 
 <section class="home-projects">
