@@ -1,8 +1,8 @@
 title: Site Navigation
 primary-nav:
 
-##  - title: How to
-##  url: /howto/
+- title: Stockists
+  url: /stockists/
 
 - title: About
   url: /about/
