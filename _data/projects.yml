@@ -2,15 +2,15 @@ list:
 
   - title: Haha Hot Dogs
     #description: Chicago
-    thumbnail: /assets/images/project-thumbnails/chicago.jpg
-    url: /assets/images/project-thumbnails/chicago.jpg
+    thumbnail: /assets/images/project-thumbnails/chi.jpg
+    url: /assets/images/project-thumbnails/chi.jpg
 
   - title: Chicago Dogs
     #description: Antarctica
-    thumbnail: /assets/images/project-thumbnails/antarctica.jpg
-    url: /assets/images/project-thumbnails/antarctica.jpg
+    thumbnail: /assets/images/project-thumbnails/antarcticaa.jpg
+    url: /assets/images/project-thumbnails/antarcticaa.jpg
 
   - title: Shake Your Buns
     #description: Utah
-    thumbnail: /assets/images/project-thumbnails/utah.jpg
-    url: /assets/images/project-thumbnails/utah.jpg
+    thumbnail: /assets/images/project-thumbnails/utahh.jpg
+    url: /assets/images/project-thumbnails/utahh.jpg
