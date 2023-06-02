@@ -13,9 +13,9 @@ If you are interested in carrying my products at your shop, you can check out my
 San Juan Batista • [Livin' The Green Dream](https://livingreendream.com/)
 
 ### Illinois
-Chicago • [The Chicago History Museum](https://home.chicagohistory.org/)
-Chicago • [Foursided](https://www.foursided.com)
-Chicago • [Shop Komoda](https://www.shopkomoda.com/)
+Chicago • [The Chicago History Museum](https://home.chicagohistory.org/)</br>
+Chicago • [Foursided](https://www.foursided.com)</br>
+Chicago • [Shop Komoda](https://www.shopkomoda.com/)</br>
 
 ### New York
 Newburgh • [Pete's Hot Dogs](https://www.peteshotdogs.net)
