@@ -12,6 +12,9 @@ permalink: /contact/
       <p>Instagram</p>
     </a>
   </div>
+  ---
+### Email
+hahahotdogs (at) gmail (dot) com
 
   <!--
   <div class="contact-social-link">
