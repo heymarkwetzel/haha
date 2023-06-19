@@ -23,7 +23,7 @@ nav: light
 <section class="home-projects">
   <div class="pw-container">
     <h3>Buy Online</h3>
-      <div class="home-buy-online-list">
+      <div class="home-projects-list">
         {% for item in site.data.buy-online.list %}
           <div class="home-project">
             <a href="{{ item.url }}" alt="{{ item.title }}">
