@@ -28,8 +28,8 @@ nav: light
           <div class="home-project">
             <a href="{{ item.url }}" alt="{{ item.title }}">
               <img class="home-project-thumbnail" src="{{ item.thumbnail }}" />
-              <h4 class="home-project-title">{{ item.title }}</h4>
-              <p class="home-project-description">{{ item.description }}</p>
+              <!--<h4 class="home-project-title">{{ item.title }}</h4>-->
+              <!--<p class="home-project-description">{{ item.description }}</p>-->
             </a>
           </div>
         {% endfor %}
@@ -46,7 +46,7 @@ nav: light
         <a href="{{ item.url }}" alt="{{ item.title }}" data-lightbox="postcards">
           <img class="home-project-thumbnail" src="{{ item.thumbnail }}" />
           <!-- <h4 class="home-project-title">{{ item.title }}</h4> -->
-          <p class="home-project-description">{{ item.description }}</p>
+          <!--<p class="home-project-description">{{ item.description }}</p>-->
         </a>
       </div>
       {% endfor %}

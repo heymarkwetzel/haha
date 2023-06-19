@@ -15,17 +15,17 @@ list:
     thumbnail: /assets/images/project-thumbnails/drink-table.jpg
     url: /assets/images/project-thumbnails/drink-table.jpg
 
-- #title: Shake Your Buns
-  #description: Utah
-  thumbnail: /assets/images/project-thumbnails/chicago.jpg
-  url: /assets/images/project-thumbnails/chicago.jpg
+  - #title: Shake Your Buns
+    #description: Utah
+    thumbnail: /assets/images/project-thumbnails/chicago.jpg
+    url: /assets/images/project-thumbnails/chicago.jpg
 
-- #title: Shake Your Buns
-  #description: Utah
-  thumbnail: /assets/images/project-thumbnails/portrait.jpg
-  url: /assets/images/project-thumbnails/portrait.jpg
+  - #title: Shake Your Buns
+    #description: Utah
+    thumbnail: /assets/images/project-thumbnails/portrait.jpg
+    url: /assets/images/project-thumbnails/portrait.jpg
 
-- #title: Shake Your Buns
-  #description: Utah
-  thumbnail: /assets/images/project-thumbnails/duality.jpg
-  url: /assets/images/project-thumbnails/duality.jpg
+  - #title: Shake Your Buns
+    #description: Utah
+    thumbnail: /assets/images/project-thumbnails/duality.jpg
+    url: /assets/images/project-thumbnails/duality.jpg
