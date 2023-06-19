@@ -39,7 +39,7 @@ nav: light
 
 <section class="home-projects">
   <div class="pw-container">
-    <h3><a name="projects"></a>Products Gallery</h3>
+    <h3><a name="projects"></a>Gallery</h3>
     <div class="home-projects-list">
       {% for item in site.data.projects.list %}
       <div class="home-project">
