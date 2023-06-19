@@ -1,16 +1,31 @@
 list:
 
-  - title: Haha Hot Dogs
+  - #title: Haha Hot Dogs
     #description: Chicago
-    thumbnail: /assets/images/project-thumbnails/FAIRE.png
-    url: /assets/images/project-thumbnails/FAIRE.png
+    thumbnail: /assets/images/project-thumbnails/group-01.jpg
+    url: /assets/images/project-thumbnails/group-01.jpg
 
-  - title: Chicago Dogs
+  - #title: Chicago Dogs
     #description: Antarctica
-    thumbnail: /assets/images/project-thumbnails/ETSY.png
-    url: /assets/images/project-thumbnails/ETSY.png
+    thumbnail: /assets/images/project-thumbnails/birthday-outside.jpg
+    url: /assets/images/project-thumbnails/ETSY.jpg
 
-  - title: Shake Your Buns
+  - #title: Shake Your Buns
     #description: Utah
-    thumbnail: /assets/images/project-thumbnails/utahh.jpg
-    url: /assets/images/project-thumbnails/utahh.jpg
+    thumbnail: /assets/images/project-thumbnails/drink-table.jpg
+    url: /assets/images/project-thumbnails/drink-table.jpg
+
+- #title: Shake Your Buns
+  #description: Utah
+  thumbnail: /assets/images/project-thumbnails/chicago.jpg
+  url: /assets/images/project-thumbnails/chicago.jpg
+
+- #title: Shake Your Buns
+  #description: Utah
+  thumbnail: /assets/images/project-thumbnails/portrait.jpg
+  url: /assets/images/project-thumbnails/portrait.jpg
+
+- #title: Shake Your Buns
+  #description: Utah
+  thumbnail: /assets/images/project-thumbnails/duality.jpg
+  url: /assets/images/project-thumbnails/duality.jpg
