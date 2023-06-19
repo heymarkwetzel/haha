@@ -37,19 +37,19 @@ nav: light
   </div>
 </section>
 
-<section class="home-projects">
+<section class="projects">
   <div class="pw-container">
-    <h3><a name="projects"></a>Haha Hot Dogs</h3>
-    <div class="home-projects-list">
-      {% for item in site.data.projects.list %}
-      <div class="home-project">
-        <a href="{{ item.url }}" alt="{{ item.title }}" data-lightbox="postcards">
-          <img class="home-project-thumbnail" src="{{ item.thumbnail }}" />
-          <!-- <h4 class="home-project-title">{{ item.title }}</h4> -->    
-          <p class="home-project-description">{{ item.description }}</p>
-        </a>
+    <h3>Buy Online</h3>
+      <div class="home-buy-online-list">
+        {% for item in site.data.buy-online.list %}
+          <div class="home-project">
+            <a href="{{ item.url }}" alt="{{ item.title }}">
+              <img class="home-project-thumbnail" src="{{ item.thumbnail }}" />
+              <h4 class="home-project-title">{{ item.title }}</h4>
+              <p class="home-project-description">{{ item.description }}</p>
+            </a>
+          </div>
+        {% endfor %}
       </div>
-      {% endfor %}
-    </div>
   </div>
 </section>
