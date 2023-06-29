@@ -14,6 +14,7 @@ San Juan Batista • [Livin' The Green Dream](https://livingreendream.com/)
 Chicago • [The Chicago History Museum](https://home.chicagohistory.org/)  <br />
 Chicago • [Foursided](https://www.foursided.com)  <br />
 Chicago • [Shop Komoda](https://www.shopkomoda.com/)  <br />
+Chicago • [Steel Petal Press](https://steelpetalpress.com/)  <br />
 
 ### New York
 Newburgh • [Pete's Hot Dogs](https://www.peteshotdogs.net)
